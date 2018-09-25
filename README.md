@@ -1,6 +1,6 @@
 # Read Me
 
-I worked on this project during my time at Metis data science bootcamp, summer 2018. This unit focused on natural language processing and unsupervised learning techniques.  
+I worked on this project over the course of 2 weeks during my time at Metis data science bootcamp, summer 2018. This unit focused on natural language processing and unsupervised learning techniques.  
 
 **files**   
 [slides.pdf](/slides.pdf)  
